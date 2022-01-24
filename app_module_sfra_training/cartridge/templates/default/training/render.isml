@@ -1,0 +1,5 @@
+<ismodule template="/components/content/contentAsset"
+    name="contentasset"
+    attribute="aid"
+/>
+<iscontentasset aid="P2607"/>

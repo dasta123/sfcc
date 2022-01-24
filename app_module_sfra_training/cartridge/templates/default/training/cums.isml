@@ -1,0 +1,7 @@
+
+
+
+
+<isloop items="${pdict.List}" var = "element"> 
+<h1> ${element.name}</h1>
+</isloop>
